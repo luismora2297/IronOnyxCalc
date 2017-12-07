@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ruby On Rails App for Numerical Methods Calculation developed by BlackBohr.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Using:
+* ruby 2.3.1
+* Rails 5.1.4
+* jQuery 3.2.1
+* HTML5
+* CSS3
+* Others...
